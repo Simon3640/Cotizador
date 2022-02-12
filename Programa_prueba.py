@@ -7,3 +7,5 @@ else:
     print('N es impar')
 
 print('nuevo cambio')
+
+import numpy as np
