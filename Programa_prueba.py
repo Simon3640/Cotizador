@@ -1,5 +1,5 @@
 #programa que determina si un número es par
-N=4
+N=input("Ingresar el número")
 print(N%2)
 if N%2==0:
     print('N es par')
