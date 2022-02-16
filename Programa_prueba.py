@@ -8,4 +8,4 @@ else: #En caso de que no se cumpla la proposicion
 
 print('nuevo cambio') #cambio
 
-import numpy as np #importamos la libreria numpy
+import scipy as sp #importamos la libreria scipy
